@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/BizzCommunication/static/css/main.7434d255.chunk.css",
+    "main.js": "/BizzCommunication/static/js/main.89aabefa.chunk.js",
+    "main.js.map": "/BizzCommunication/static/js/main.89aabefa.chunk.js.map",
+    "runtime-main.js": "/BizzCommunication/static/js/runtime-main.aaf6b259.js",
+    "runtime-main.js.map": "/BizzCommunication/static/js/runtime-main.aaf6b259.js.map",
+    "static/css/2.a3ab5857.chunk.css": "/BizzCommunication/static/css/2.a3ab5857.chunk.css",
+    "static/js/2.8afef042.chunk.js": "/BizzCommunication/static/js/2.8afef042.chunk.js",
+    "static/js/2.8afef042.chunk.js.map": "/BizzCommunication/static/js/2.8afef042.chunk.js.map",
+    "index.html": "/BizzCommunication/index.html",
+    "static/css/2.a3ab5857.chunk.css.map": "/BizzCommunication/static/css/2.a3ab5857.chunk.css.map",
+    "static/css/main.7434d255.chunk.css.map": "/BizzCommunication/static/css/main.7434d255.chunk.css.map",
+    "static/js/2.8afef042.chunk.js.LICENSE.txt": "/BizzCommunication/static/js/2.8afef042.chunk.js.LICENSE.txt",
+    "static/media/picture 4.6fc8460c.jpg": "/BizzCommunication/static/media/picture 4.6fc8460c.jpg",
+    "static/media/slide 1.09be1e44.jpg": "/BizzCommunication/static/media/slide 1.09be1e44.jpg",
+    "static/media/slide 2.18451bdf.jpg": "/BizzCommunication/static/media/slide 2.18451bdf.jpg",
+    "static/media/slide 3.80d1ed71.jpg": "/BizzCommunication/static/media/slide 3.80d1ed71.jpg",
+    "static/media/slide 4.de9f2bf8.jpg": "/BizzCommunication/static/media/slide 4.de9f2bf8.jpg",
+    "static/media/slide 5.012ce9f2.jpg": "/BizzCommunication/static/media/slide 5.012ce9f2.jpg",
+    "static/media/slide 6.7ff6d890.jpg": "/BizzCommunication/static/media/slide 6.7ff6d890.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aaf6b259.js",
+    "static/css/2.a3ab5857.chunk.css",
+    "static/js/2.8afef042.chunk.js",
+    "static/css/main.7434d255.chunk.css",
+    "static/js/main.89aabefa.chunk.js"
+  ]
+}
